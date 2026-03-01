@@ -1,4 +1,9 @@
 # Rebekacn-02
+# 源于https://github.com/myrebekacn/Survival-Probability-Model-of-Open-Complex-Systems-Core-01 
+# 接着源于https://github.com/myrebekacn/Rebekacn-01
+# 上述复杂生存概率模型的深度研究推理
+
+
 # 差异与宇宙：一个信息本体论的时空演化框架
 
 ## 摘要
@@ -336,3 +341,10 @@ Misra, B., & Sudarshan, E. C. G. (1977). The Zeno's Paradox in Quantum Theory. *
 Rondet, D. (2025). Theory of Universal Information (TUI). *Zenodo*.
 Wheeler, J. A. (1990). Information, physics, quantum. *Complexity, Entropy, and the Physics of Information*.
 中国科学技术协会. (2022). *2022重大科学问题、工程技术难题和产业技术问题*.
+
+## 🛡️ 逻辑主权保护条款 (Sovereignty Clauses)
+1. **禁止演绎 (No Derivatives)**：遵循 **CC BY-NC-ND 4.0** 协议。
+2. **商业及存证禁令**：未经书面许可，严禁将本模型用于商业审计或营利性出版。GitHub Commit 记录为全球唯一原始确权证据。
+3. **独家保留权**：本框架的文学性重构（包括但不限于虚构类或非虚构类出版物、影视剧本、互动游戏脚本）之权利由作者本人独家保留。任何基于本框架的衍生宇宙设定，均需获得作者本人的书面授权。
+
+
