@@ -1,7 +1,7 @@
 # Rebekacn-02
 # 源于https://github.com/myrebekacn/Survival-Probability-Model-of-Open-Complex-Systems-Core-01 
-# 接着源于https://github.com/myrebekacn/Rebekacn-01
-# 上述复杂生存概率模型的深度研究推理
+# 源于https://github.com/myrebekacn/Rebekacn-01
+# 下面论文框架源于的上述复杂生存概率模型的深度研究推理
 
 
 # 差异与宇宙：一个信息本体论的时空演化框架
