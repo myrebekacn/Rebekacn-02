@@ -88,7 +88,7 @@
 $$F(\rho, \sigma) = \left( \operatorname{Tr} \sqrt{\sqrt{\rho} \, \sigma \sqrt{\rho}} \right)^2,$$
 则Bures距离为：
 $$d_B(\rho, \sigma) = \sqrt{2 \left(1 - \sqrt{F(\rho, \sigma)}\right)}.$$
-Bures距离满足度量公理，当 $F=1$ 时 $d_B=0$（态相同），当 $F=0$ 时 $d_B=\sqrt{2}$（态正交）。这个量刻画了两个量子态之间的“潜在差异”大小——即使系统处于叠加态，这个距离仍然存在，但它尚未成为现实。
+（注：$\operatorname{Tr}$ 表示矩阵的迹，$\sqrt{\rho}$ 表示密度矩阵的平方根。）
 
 在宏观尺度，当系统状态由经典概率分布描述时，我们可用总变差距离来刻画现实差异：
 $$\Delta_c(p, q) = \frac{1}{2} \sum_i |p_i - q_i|.$$
